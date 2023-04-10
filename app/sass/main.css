@@ -1,0 +1,6 @@
+@import url(_fonts.scss);
+@import url(_media.scss);
+h1 {
+  color: pink;
+  font-family: "Raleway-Thin";
+}/*# sourceMappingURL=main.css.map */
